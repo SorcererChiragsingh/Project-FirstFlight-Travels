@@ -35,7 +35,7 @@
 - **Feature 3:** User-Friendly
 
 ## Screenshots
-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fethz.ch%2Fen%2Fnews-and-events%2Feth-news%2Fnews%2F2019%2F01%2Fflugreisen-reduktion.html&psig=AOvVaw1uIEj_C1AKcLuQDKhSIB5N&ust=1724602208466000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDf0YyCjogDFQAAAAAdAAAAABAE"></img>
+- <img src=""></img>
 
 
 ## Tech Stack
