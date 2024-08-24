@@ -21,6 +21,7 @@
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Road Map](#roadmap)
+- [Report Issues](#report-issues)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -40,8 +41,8 @@
 
 ## Tech Stack
 
-- Frontend:PHP, JAVASCRIPT, BOOTSTRAP
-- Backend:MySQL
+- Frontend:HTML, CSS, JAVASCRIPT, BOOTSTRAP
+- Backend:MySQL, PHP
 - Database:X
 - Deployment:XAAMP
 
@@ -52,6 +53,10 @@
  - Loyalty Program
  - User Account and Profile Management
  - Partnerships with Travel Influencers
+
+## Report Issues
+- You can report issues on this project using Github issue.
+- You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) 
 
 ## License
 
