@@ -37,6 +37,12 @@
 
 ## Screenshots
 
+### Home Page
+![]()
+![]()
+![]()
+![]()
+
 ### About Page
 ![]()
 
@@ -45,10 +51,14 @@
 
 ### Contact Page
 ![]()
+![]()
 
 ### Location Page
 ![]()
+![]()
 
+### Register Page
+![]()
 
 ## Tech Stack
 
