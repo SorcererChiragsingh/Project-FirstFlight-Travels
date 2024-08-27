@@ -10,7 +10,7 @@
 
 <p>The "First Flight Travels" is a Front end web application project created using HTML, CSS and JavaScript.</p>
 
-<a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+<a href="https://main--firstflighttravels.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div> <br/><br/>
 
